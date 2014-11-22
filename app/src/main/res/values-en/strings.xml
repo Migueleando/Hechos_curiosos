@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fun facts</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ask">Did you know?</string>
+    <string name="HechoCuriosoTextView">Ants stretch when they wake up in the morning</string>
+    <string name="ChangeButton">See another curious fact</string>
+    <string-array name="frases">
+        <item>Ants stretch when they wake up in the morning.</item>
+        <item>Ostriches can run faster than horses.</item>
+        <item>The gold medals in the Olympic Games are made of silver.</item>
+        <item>You were born with 300 bones, but by adulthood have only 206.</item>
+        <item>It takes about 8 minutes to reach the sunlight to earth.</item>
+        <item>Some bamboo plants can grow up to one meter per day.</item>
+        <item>Some Penguins can jump 2-3 feet above the water.</item>
+        <item>On average it takes 66 days to make a new habit.</item>
+        <item>The state of Florida is bigger than England.</item>
+        <item>Mammoths were following walking on earth when the great pyramids were built.</item>
+    </string-array>
+
+</resources>
